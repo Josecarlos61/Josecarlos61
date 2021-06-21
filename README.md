@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there
 
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS,],
+  tools: [React, Node],
+ 
+}
+```
 <!--
 **Josecarlos61/Josecarlos61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
