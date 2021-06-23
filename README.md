@@ -1,15 +1,5 @@
 ### Hi there
 
-```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS,],
-  tools: [React, Node],
- 
-}
-```
-<!--
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
